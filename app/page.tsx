@@ -77,7 +77,7 @@ export default function HomePage() {
                   <h3 className="font-medium text-gray-900 mb-1">Collects structured intake</h3>
                   <p className="text-sm text-gray-600 leading-relaxed">
                     Gathers symptoms, contact details, insurance information, and reason for visit in a standardized
-                    format.
+                    and consistentformat.
                   </p>
                 </div>
               </div>
